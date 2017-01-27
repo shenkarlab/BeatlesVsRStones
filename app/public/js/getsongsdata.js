@@ -1,4 +1,4 @@
-var songData = angular.module('songData', ['ngAnimate']);
+var songData = angular.module('songData', []);
 
 var model = {};
 

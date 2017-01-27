@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "angular-animate": "^1.6.1",
     "express": "^4.14.0"
   },
   "devDependencies": {},
